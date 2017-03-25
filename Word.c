@@ -2,7 +2,7 @@
 #include<string.h>
 int main()
 {
-	int i,j;
+	int i,j;/////
 	char str[14];
 	char A[7][9]={"   XX   ","  XXXX  "," XX  XX ","XX    XX","XXXXXXXX","XX    XX","XX    XX"};
 	char B[7][9]={"XXXXXXX ","XX    XX","XX    XX","XXXXXXX ","XX    XX","XX    XX","XXXXXXX "};
